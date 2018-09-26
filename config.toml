@@ -1,8 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "http://helmethair-co.github.io/felfele-blog/"
 languageCode = "en-us"
 title = "Felfele Foundation"
 theme = "hugo-theme-casper"
 publishDir = "docs"
+canonifyurls = true
 
 [params]
   description = "Welcome to our blog"
