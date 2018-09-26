@@ -1,4 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Felfele Foundation"
 theme = "hugo-theme-casper"
+
+[params]
+  description = "Welcome to our blog"
+  cover = "images/stars.jpg"
+  author = "Mark Vujevits"
+  authorlocation = "Budapest, Hungary"
