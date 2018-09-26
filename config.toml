@@ -7,6 +7,6 @@ canonifyurls = true
 
 [params]
   description = "Welcome to our blog"
-  cover = "images/stars.jpg"
+  cover = "/images/stars.jpg"
   author = "Mark Vujevits"
   authorlocation = "Budapest, Hungary"
