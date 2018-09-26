@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Felfele Foundation"
 theme = "hugo-theme-casper"
+publishDir = "docs"
 
 [params]
   description = "Welcome to our blog"
