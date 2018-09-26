@@ -5,7 +5,7 @@ draft: false
 comments: true
 ---
 
-We have organized our first product design hackathon on the 13th of September. This was a private, invite only event, we are still testing our initial concepts in our network. The event was held at Flux Workspace, Budapest. The participants were of mixed background, designers, engineers, market research, QA, etc. The goal was to bring in some fresh thoughts regarding a number of topics, which were the following:
+We have organized our first product design hackathon on the 13th of September. This was a private, invite only event, we are still testing our initial concepts in our network. The event was held at a very friendly coworking office / atelier, Flux Workspace, Budapest. The participants were of mixed background, designers, engineers, market research, QA, etc. The goal was to bring in some fresh thoughts regarding a number of topics, which were the following:
 
 - find new ways of sharing
 - reinvent the timeline
