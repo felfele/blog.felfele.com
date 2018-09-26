@@ -12,11 +12,11 @@ We have organized our first product design hackathon on the 13th of September. T
 - handle multiple identities
 - explore content
 
-![](/images/collage2.jpg)
+![](images/collage2.jpg)
 
 After the Q&A and some debate, 3 teams were formed, and we have started to work on the ideas around 8 o'clock. The brainstorming and the work lasted until 11pm, when we have gathered to show the results to each other.
 
-![](/images/collage3.jpg)
+![](images/collage3.jpg)
 
 The bad news is that most of the video documentation got lost 😔
 
@@ -36,4 +36,4 @@ The last team wanted to tackle the problem of news recommendation, which can be 
 
 The energy was great throughout the evening, and we were happy with the results. Thanks again for everyone who participated, hopefully we will have some similar events in the future, we would be glad to see you again!
 
-![](/images/participants.jpg)
+![](images/participants.jpg)
