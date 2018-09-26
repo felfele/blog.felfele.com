@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felfele Foundation</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Felfele Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jul 2018 16:04:21 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>🚀 Product Design Hackathon #1 🚀</title>
+      <link>http://example.org/post/first/</link>
+      <pubDate>Tue, 10 Jul 2018 16:04:21 +0200</pubDate>
+      
+      <guid>http://example.org/post/first/</guid>
+      <description>We have organized our first product design hackathon on the 13th of September. This was a private, invite only event, we are still testing our initial concepts in our network. The event was held at Flux Workspace, Budapest. The participants were of mixed background, designers, engineers, market research, QA, etc. The goal was to bring in some fresh thoughts regarding a number of topics, which were the following:
+ find new ways of sharing reinvent the timeline handle multiple identities explore content  After the Q&amp;amp;A and some debate, 3 teams were formed, and we have started to work on the ideas around 8 o&amp;rsquo;clock.</description>
+    </item>
+    
+  </channel>
+</rss>
