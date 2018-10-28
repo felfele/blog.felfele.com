@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Felfele Foundation</title>
-    <link>https://helmethair-co.github.io/felfele-blog/categories/</link>
+    <link>http://blog.felfele.com/categories/</link>
     <description>Recent content in Categories on Felfele Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://helmethair-co.github.io/felfele-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.felfele.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

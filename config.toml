@@ -1,4 +1,4 @@
-baseURL = "https://helmethair-co.github.io/felfele-blog/"
+baseURL = "http://blog.felfele.com"
 languageCode = "en-us"
 title = "Felfele Foundation"
 theme = "hugo-theme-casper"
