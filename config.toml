@@ -10,3 +10,4 @@ canonifyurls = true
   cover = "/images/stars.jpg"
   author = "Mark Vujevits"
   authorlocation = "Budapest, Hungary"
+  RSSLink = "https://blog.felfele.com/index.xml"
