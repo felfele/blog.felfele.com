@@ -1,6 +1,7 @@
 ---
 title: "🚀 Product Design Hackathon #1 🚀"
 date: 2018-07-10T16:04:21+02:00
+description: "first post"
 ---
 
 We have organized our first product design hackathon on the 13th of September. This was a private, invite only event, we are still testing our initial concepts in our network. The event was held at a very friendly coworking office / atelier, Flux Workspace, Budapest. The participants were of mixed background, designers, engineers, market research, QA, etc. The goal was to bring in some fresh thoughts regarding a number of topics, which were the following:
